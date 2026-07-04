@@ -1,0 +1,14 @@
+2026-07-04 03:02:03,620 - agent - INFO - 开始研究任务: 研究人工智能在医疗领域的应用...
+2026-07-04 03:02:04,446 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:02:07,370 - agent - INFO - 研究计划: ['检索人工智能在医疗领域应用的最新文献', '筛选并分类文献至影像诊断、药物研发、患者监护等子领域', '分析各子领域的核心技术与典型应用案例', '整理关键发现与不同AI技术的优劣势对比', '撰写涵盖现状、挑战与未来趋势的摘要报告']
+2026-07-04 03:02:07,371 - agent - INFO - 执行步骤 1/5: 检索人工智能在医疗领域应用的最新文献
+2026-07-04 03:02:07,461 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:02:34,161 - agent - INFO - 执行步骤 2/5: 筛选并分类文献至影像诊断、药物研发、患者监护等子领域
+2026-07-04 03:02:34,250 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:02:51,110 - agent - INFO - 执行步骤 3/5: 分析各子领域的核心技术与典型应用案例
+2026-07-04 03:02:51,216 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:03:24,255 - agent - INFO - 执行步骤 4/5: 整理关键发现与不同AI技术的优劣势对比
+2026-07-04 03:03:24,337 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:03:28,720 - agent - INFO - 执行步骤 5/5: 撰写涵盖现状、挑战与未来趋势的摘要报告
+2026-07-04 03:03:28,884 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:03:34,886 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

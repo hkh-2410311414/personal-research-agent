@@ -1,0 +1,14 @@
+2026-07-04 03:56:46,040 - agent - INFO - 开始研究任务: hello...
+2026-07-04 03:56:46,990 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:56:49,095 - agent - INFO - 研究计划: ['明确研究目标与定义核心问题', '检索与收集相关文献及数据来源', '整理与分类关键信息与证据', '分析评估信息质量与关联性', '生成初步研究报告摘要']
+2026-07-04 03:56:49,096 - agent - INFO - 执行步骤 1/5: 明确研究目标与定义核心问题
+2026-07-04 03:56:49,156 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:56:57,640 - agent - INFO - 执行步骤 2/5: 检索与收集相关文献及数据来源
+2026-07-04 03:56:57,719 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:57:22,387 - agent - INFO - 执行步骤 3/5: 整理与分类关键信息与证据
+2026-07-04 03:57:22,455 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:57:25,781 - agent - INFO - 执行步骤 4/5: 分析评估信息质量与关联性
+2026-07-04 03:57:25,853 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:57:42,279 - agent - INFO - 执行步骤 5/5: 生成初步研究报告摘要
+2026-07-04 03:57:42,340 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-04 03:57:47,178 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
